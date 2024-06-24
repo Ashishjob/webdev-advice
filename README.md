@@ -46,6 +46,21 @@ After a little while, I got bored with my project and wanted to switch to a proj
 [![Tech Stack](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
 <img src="https://github.com/Ashishjob/webdev-advice/assets/114624617/18180c1e-d945-404a-80b6-7ca6c0a2b219" alt="Tech Stack" style="width: 50px; height: 50px;">
 
+-----
 
+## Advanced Tools and Frameworks:
+
+Turns out I got bored of the industry-standard practices, and found out about Next.js, and it just looked really cool to me. I found out it was like React but with enhancements, pretty much like the JavaScript-TypeScript relationship and it's an actual framework instead of a library this time. For the other 2 parts, it was again another coolness factor that I personally took into account with their logos, but after using them, they just made life so much easier, that I started to have them as my crutch when it came to web development. With knowledge from the prior steps, these weren't hard to learn conceptually, but they just have a broader selection of available features, so really just researching what features are available and what you can experiment with is the best resource to get better accustomed to them. Here are their documentations: [Next.js documentation](https://nextjs.org/docs), [TailwindCSS documentation](https://tailwindcss.com/docs/installation), and for the component libraries, there are so many that it really comes down to personal preference and specific features that you may be looking to add into your website, but some popular ones include [shadcn/ui](https://ui.shadcn.com/docs), [Radix UI]([url](https://www.radix-ui.com/primitives/docs/overview/introduction)), [MUI](https://mui.com/material-ui/getting-started/), [Aceternity UI](https://ui.aceternity.com/), and many more. Finally to give an explanation on what each is: Next.js is a web development framework built on top of React that adds features like server-side rendering, static site generation, API routes, and file-based routing; TailwindCSS is a utility-first CSS framework that uses predefined classes directly in HTML to style components, speeding up development and ensuring consistent styling. Finally, Component libraries provide pre-built, customizable UI components that speed up development by offering ready-made solutions for common UI elements like buttons, forms, and modals.
+
+### TLDR:
+- [Next.js](https://nextjs.org/docs) is a web development framework built off of React that further accelerates development.
+- [TailwindCSS](https://tailwindcss.com/docs/installation) is a CSS framework that merges CSS with HTML.
+- Component Libraries are libraries of already made components, speeding up frontend development with standard and reusable components.
+
+<h2><a href="https://git-study-self.vercel.app/">The website's link</a> and its <a href="https://github.com/Brodypen/GitStudy">repository.</a></h2>
+
+![image](https://github.com/Ashishjob/webdev-advice/assets/114624617/f71c5750-7da5-4c6b-91ad-2e2552f24a76)
+[![Tech Stack](https://skillicons.dev/icons?i=next,tailwind)](https://skillicons.dev)
+<img src="https://github.com/Ashishjob/webdev-advice/assets/114624617/59cc6306-f1a1-4ef7-8870-44ae467e4212" alt="Tech Stack" style="width: 50px; height: 50px; border-radius: 50%; display: block; overflow: hidden;">
 
 -----
